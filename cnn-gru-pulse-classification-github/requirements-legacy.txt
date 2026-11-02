@@ -1,8 +1,0 @@
-# Optional dependencies imported by the archived prototype.
--r requirements.txt
-torchvision
-matplotlib
-opencv-python
-diffusers
-tqdm
-pandas
