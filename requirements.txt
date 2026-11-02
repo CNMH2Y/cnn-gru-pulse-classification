@@ -1,0 +1,4 @@
+# Intended dependencies; versions have not been validated or pinned.
+numpy
+scipy
+torch

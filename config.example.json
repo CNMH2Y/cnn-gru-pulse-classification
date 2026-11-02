@@ -1,0 +1,8 @@
+{
+  "raw_data_dir": "data/raw",
+  "dataset_output_dir": "artifacts/dataset",
+  "num_classes": 11,
+  "sequence_length": 500,
+  "peak_width": 20,
+  "seed": 42
+}
