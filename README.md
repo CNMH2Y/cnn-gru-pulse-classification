@@ -100,4 +100,4 @@ The new deterministic class mapping may differ from the legacy script's director
 
 ## Development history
 
-The legacy script was retained as supplied. The modular model, dataset preparation, and documentation are a refactor prepared in November 2026. Legacy plotting constants and training-loss plots are not verified test metrics.
+The legacy script was retained as supplied. The modular model, dataset preparation, and documentation are a refactor prepared in November 2024. Legacy plotting constants and training-loss plots are not verified test metrics.
